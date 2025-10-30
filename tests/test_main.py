@@ -6,7 +6,7 @@ Tests for ALIVE-Creativityengine
 import unittest
 from main import *
 
-class TestCreativityengine(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
